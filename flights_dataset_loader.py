@@ -1,10 +1,8 @@
 import os
-import urllib
-import zipfile
 import numpy as np
 import torch
 from torch_geometric.utils import dense_to_sparse
-from torch_geometric_temporal.signal import StaticGraphTemporalSignal, DynamicGraphTemporalSignal
+from torch_geometric_temporal.signal import DynamicGraphTemporalSignal
 
 class FlightsDatasetLoader(object):
 
