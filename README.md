@@ -1,7 +1,16 @@
-In this notebook, I develop 2 models for predicting flight delays at landing depending on airports and airlines.
+# Flight Delays Predictor: A Spacial Temporal Graph Neural Network for predicting delays of planes
 
-The data for running this notebook can be found on this website: https://www.kaggle.com/code/fabiendaniel/predicting-flight-delays-tutorial/input.
+Martin Tefra (martintefra@gmail.com)
 
-I developped 2 models: 
-- a simple one: linear regression)
-- a more complex one: temporal graph neural network).
+## Getting Started
+
+To start, install all needed python packages. You need to support the python version(s) listed in "requirements.txt".
+```sh
+pip install -U -r requirements.txt
+```
+
+The implementation should work with any Python version >= 3.7
+
+## About
+
+Flight Delays Predictor was developped to answer the challenge on Kaggle: https://www.kaggle.com/code/fabiendaniel/predicting-flight-delays-tutorial/notebook
