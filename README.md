@@ -1,4 +1,4 @@
-# Flight Delays Predictor: A Spacial Temporal Graph Neural Network for predicting delays of planes
+# Flight Delays Predictor: A Spacio Temporal Graph Neural Network for predicting delays of planes
 
 Martin Tefra (martintefra@gmail.com)
 
